@@ -1,6 +1,6 @@
 'use strict';
 var ws = require("nodejs-websocket")
-var elo = require('elo-rank')();
+var elo = require('elo-rank');
 var redis = require('redis');
 var bodyParser = require('body-parser')
 var async=require("async");
