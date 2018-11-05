@@ -12,6 +12,7 @@ Learn the basics of the game, train by battling against random bot, and take up 
 
 
 ![](gifdemo.gif)
+
 **Load up your tanks, clean your keyboards and get started!**
 
 ## The rules
